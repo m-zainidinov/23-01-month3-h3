@@ -1,0 +1,38 @@
+#time {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+#pause {
+  display: none;
+}
+
+#resume {
+  display: none;
+}
+
+#reset {
+  display: none;
+}
+
+#round {
+  display: none;
+}
+
+#list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#listHeader {
+  display: none;
+}
+
+button {
+  height: 30px;
+  width: 100px;
+}
+
+ul {
+  font-size: 20px;
+}
